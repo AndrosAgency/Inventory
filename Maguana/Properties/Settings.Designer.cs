@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Inventory.Properties
+namespace Maguana.Properties
 {
 
 

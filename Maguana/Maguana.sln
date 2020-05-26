@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29926.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maguana", "Maguana.csproj", "{D77C367F-4314-41F6-A71C-E16FD0CCF621}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maguana", "Maguana.csproj", "{451401E0-DD3F-483C-B881-48E7A57CA098}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D77C367F-4314-41F6-A71C-E16FD0CCF621}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D77C367F-4314-41F6-A71C-E16FD0CCF621}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D77C367F-4314-41F6-A71C-E16FD0CCF621}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D77C367F-4314-41F6-A71C-E16FD0CCF621}.Release|Any CPU.Build.0 = Release|Any CPU
+		{451401E0-DD3F-483C-B881-48E7A57CA098}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{451401E0-DD3F-483C-B881-48E7A57CA098}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{451401E0-DD3F-483C-B881-48E7A57CA098}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{451401E0-DD3F-483C-B881-48E7A57CA098}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {27A960F6-A6CA-4FF2-B6BE-9F9729B50DDD}
+		SolutionGuid = {33B9AC84-8EA6-4598-8307-DB5D9F622A07}
 	EndGlobalSection
 EndGlobal

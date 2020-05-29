@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
@@ -16,13 +14,20 @@ using System.Windows.Shapes;
 namespace Maguana
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Lógica de interacción para HomePage.xaml
     /// </summary>
-    public partial class MainWindow : NavigationWindow
+    public partial class HomePage : Page
     {
-        public MainWindow()
+        public HomePage()
         {
             InitializeComponent();
+        }
+
+        // Navegacion hacia ProductPages
+        private void Nav_ProductPages(object sender, RoutedEventArgs e)
+        {
+            ProductPages productPages = new ProductPages();
+            this.NavigationService.Navigate(productPages);
         }
     }
 }
